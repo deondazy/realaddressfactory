@@ -28,8 +28,8 @@
     "fakerphp/faker": "^1.23",
     "illuminate/support": "*",
     "laravel/framework": "12.*",
-    "toin0u/geocoder-laravel": "^4.7",
-    "willdurand/geocoder": "^4.0"
+    "deondazy/geocoder-laravel": "^1.0",
+    "willdurand/geocoder": "^5.0"
   },
   "require-dev": {
     "orchestra/testbench": "^10.0"
